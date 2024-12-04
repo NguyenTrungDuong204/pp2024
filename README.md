@@ -10,5 +10,4 @@ Student Info
 =========================
 
 * Student Name: Nguyen Trung Duong 
-* Student ID: 22BA13095
-
+* Student ID: 22BA13095 
